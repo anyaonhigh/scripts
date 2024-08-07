@@ -8,7 +8,7 @@ tiles:
     content: "..."
     # argument: "icon=antenna.radiowaves.left.and.right.circle.fill&backgroundColor=#178BD8"
     icon: "antenna.radiowaves.left.and.right.circle.fill"
-    backgroundColor: "#178BD8"
+    backgroundColor: "#f50505"
 
 script-providers:
   "网络信息":
