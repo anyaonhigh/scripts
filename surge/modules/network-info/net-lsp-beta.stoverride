@@ -22,7 +22,7 @@ tiles:
     interval: 300
     content: "..."
     icon: "antenna.radiowaves.left.and.right.circle.fill"
-    backgroundColor: "#178BD8"
+    backgroundColor: "#E0218A"
     title: "网络信息 𝕏"
     timeout: 30
     argument: |-
